@@ -1,5 +1,12 @@
 package pages;
 
-public class homePage {
+import utils.BaseClass;
 
+public class homePage extends BaseClass{
+
+	
+	
+	
+	
+	
 }
